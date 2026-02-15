@@ -1,5 +1,5 @@
-🧬 Amplifex Pro
-A professional, state-of-the-art PCR Primer analysis web tool. Built for speed and accuracy, this tool calculates melting temperatures, molecular weights, and checks for secondary structures using advanced thermodynamic models.
+🧬 Primer Properties
+A professional, state-of-the-art PCR Primer analysis web tool (Testing phase). Built for speed and accuracy, this tool calculates melting temperatures, molecular weights, and checks for secondary structures using advanced thermodynamic models.
 
 Created by Muhammad Sohaib Hassan
 
@@ -11,7 +11,7 @@ Quality Checks: Automatically detects potential issues like Hairpins, Self-Dimer
 Client-Side: Runs 100% in the browser. No backend server needed. Safe and fast.
 
 🚀 How to Use
-Visit this link https://mshassan123.github.io/-Amplifex-Pro/ 
+Visit this link https://mshassan123.github.io/Primer-Properties/
 
 Download: Save the index.html file.
 Run: Open index.html in any web browser (Chrome, Firefox, Safari, Edge).
